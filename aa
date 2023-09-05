@@ -1,0 +1,35 @@
+<section class="border-top-botton flex space-between">
+                    <div class="service-left m-t-10 flex align-end ">
+                        <!-- <img class="image1" src="./assets/img/17.jpeg" alt="Frau mit braun hintergrund"> -->
+                        <img class="image2" src="./assets/img/20.jpeg" alt="Frau mit hemd ">
+                        <img class="image3" src="./assets/img/15.jpeg" alt="Frau mit Brille ">
+                        <img class="image4" src="./assets/img/21.jpeg" alt="Frau mit Augen zu ">
+
+                    </div>
+                    <article class="service-items m-t-10">
+                        <div class="item1 ">
+                            <im class="image1" src="./assets/img/17.jpeg" alt="Frau mit braun hintergrund">
+                            <a href="">Costume</a>
+                            <p>Cloth & Wearing</p>
+                            <img class="image1" src="./assets/img/16.jpeg" alt="Frau mit schone Harre">
+                        </div>
+                        <div class="item2 m-t-10">
+                            <a class="a1" href="">Acting</a>
+                            <p>Character</p>
+                        </div>
+                        <div class="item3 m-t-10">
+                            <a href="">Modelling</a>
+                            <p>Fashion & Life Style</p>
+                        </div>
+                        <div class="item4 m-t-10">
+                            <a href="">Artist</a>
+                            <p>Creative Designer</p>
+                        </div>
+                    </article>
+                    <div class="service-right m-t-10">
+                        <!-- <img class="image1" src="./assets/img/16.jpeg" alt="Frau mit schone Harre"> -->
+                        <img class="image2" src="./assets/img/13.jpeg" alt="Frau mit schone Harre">
+                        <img class="image3" src="./assets/img/22.jpeg" alt="Frau mit Himmel in Hintergrund">
+                        <img class="image4" src="./assets/img/20.jpeg" alt="Frau mit dem Orage Hemd">
+                    </div>
+                </section>
